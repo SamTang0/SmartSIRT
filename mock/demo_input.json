@@ -1,8 +1,0 @@
-{
-  "alert_id": "demo_001",
-  "timestamp": "2026-06-02T22:00:00",
-  "source": "EDR",
-  "hostname": "server-01",
-  "username": "admin",
-  "alert": "检测到进程 xmrig.exe 启动，连接至 pool.minexmr.com:4444"
-}
