@@ -1,1 +1,12 @@
-{"risk_level":"高危"}
+{
+  "alert_id": "demo_001",
+  "timestamp": "2026-06-02T22:00:01",
+  "final_risk": "high",
+  "action": "block_only",
+  "action_description": "仅阻断网络连接",
+  "suggestions": [
+    "阻断恶意网络连接",
+    "结束恶意进程",
+    "检查主机CPU使用率，排查其他挖矿痕迹"
+  ]
+}

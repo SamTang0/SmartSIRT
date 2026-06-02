@@ -1,1 +1,17 @@
-{"pool.minexmr.com":"高危"}
+{
+  "pool.minexmr.com": {
+    "risk": "high",
+    "type": "mining",
+    "confidence": 0.95
+  },
+  "xmr.pool.com": {
+    "risk": "high",
+    "type": "mining",
+    "confidence": 0.95
+  },
+  "c2server.com": {
+    "risk": "critical",
+    "type": "c2",
+    "confidence": 0.98
+  }
+}
